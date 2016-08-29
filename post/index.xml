@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on Bilal ARSLAN&#39;s Blog</title>
+    <link>http://bilalarslan.me/blog/post/</link>
+    <description>Recent content in Posts on Bilal ARSLAN&#39;s Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 30 Aug 2016 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://bilalarslan.me/blog/post/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Hello World</title>
+      <link>http://bilalarslan.me/blog/post/hello-word/</link>
+      <pubDate>Tue, 30 Aug 2016 00:00:00 +0000</pubDate>
+      
+      <guid>http://bilalarslan.me/blog/post/hello-word/</guid>
+      <description>&lt;p&gt;Hello world!&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
